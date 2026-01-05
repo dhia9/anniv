@@ -1,0 +1,11 @@
+h1,button{
+    width: fit-content;
+    margin:0 auto
+    
+}
+.centr {
+    
+  display: block;   /* ou inline-block si tu préfères */
+  margin: 0 auto;
+  margin-top: 20px;
+}
